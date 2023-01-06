@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Sistemas\Desktop\Proyecto Api EF</_PublishTargetUrl>
+    <History>True|2023-01-06T18:41:02.9187266Z;True|2023-01-06T10:48:40.9714999-06:00;True|2023-01-05T12:53:56.4361538-06:00;True|2023-01-05T12:51:25.6567550-06:00;True|2023-01-04T12:42:31.8011218-06:00;True|2023-01-04T12:27:37.9145010-06:00;True|2023-01-03T13:58:48.5923180-06:00;True|2023-01-03T13:55:05.8784273-06:00;True|2023-01-03T13:15:00.3171892-06:00;True|2023-01-03T13:14:16.3490893-06:00;True|2022-12-28T17:17:20.0253640-06:00;True|2022-12-28T17:17:16.4645550-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
