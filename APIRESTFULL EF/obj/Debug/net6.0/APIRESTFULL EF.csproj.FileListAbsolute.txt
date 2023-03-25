@@ -95,9 +95,6 @@ C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\API
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.csproj.CoreCompileInputs.cache
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.dll
-C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\refint\APIRESTFULL EF.dll
-C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.pdb
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\bin\Debug\net6.0\appsettings.json
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\bin\Debug\net6.0\APIRESTFULL EF.exe
@@ -176,5 +173,8 @@ C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\sta
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\scopedcss\bundle\APIRESTFULL EF.styles.css
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.csproj.CopyComplete
+C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.dll
+C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\refint\APIRESTFULL EF.dll
+C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.pdb
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\APIRESTFULL EF.genruntimeconfig.cache
 C:\Users\Sistemas\source\repos\APIRESTFULLEF\APIRESTFULL EF\obj\Debug\net6.0\ref\APIRESTFULL EF.dll

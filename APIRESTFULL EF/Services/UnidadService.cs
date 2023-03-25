@@ -23,7 +23,7 @@ namespace APIRESTFULL_EF.Services
 
 
 
-            List<Unidad> unidades = await _dbcontext.Unidades.Where(x=>x.IdEstatus!=3).ToListAsync();
+            List<Unidad> unidades = await _dbcontext.Unidades.Where(x=>x.IdEstatus!=3 && x.Id_CategoriaUnidad!=0).ToListAsync();
             return unidades;
 
         }

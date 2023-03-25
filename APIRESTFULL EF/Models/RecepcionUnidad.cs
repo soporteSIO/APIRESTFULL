@@ -46,5 +46,7 @@ namespace APIRESTFULL_EF.Models
         public string? Comentarios { get; set; }
         public string? MotivoIngreso { get; set; }
         public string? Operador { get; set; }
+        public int Enviado { get; set; } = 0;
+        public int PDFCreado { get; set; } = 0;
     }
 }

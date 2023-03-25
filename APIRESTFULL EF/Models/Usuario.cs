@@ -11,6 +11,7 @@ namespace APIRESTFULL_EF.Models
         [Key]
         public string? U_Usuario { get; set; }
         public string? U_Contrasena { get; set; }
+        
         public string? NombreCompleto { get; set; }
         public int U_IdEstatusEmpleado { get; set; }
         public int U_IdDepartamento { get; set; }
